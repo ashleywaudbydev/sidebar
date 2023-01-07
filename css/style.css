@@ -1,0 +1,114 @@
+/*----------GLOBAL STYLES-----------*/
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: gray;
+    font-size: 1.5rem;
+}
+
+.container{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    
+    
+}
+
+
+/*----------NAVIGATION STYLES-----------*/
+
+.branding{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 4rem;
+}
+
+h1{
+    font-size: 2.5rem;
+}
+
+.hamburger{
+    padding: 2rem;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.fas:hover, .close:hover {
+    transition: all 0.5s linear;
+    transform: rotate(360deg);
+  }
+
+  .fas, .close{
+    transition: all 0.5s linear;
+  transform: rotate(0deg)
+  }
+
+p{
+    color: red;
+    font-weight: 900;
+    font-size: 2rem;
+    cursor: pointer;
+    
+  
+}
+
+span{
+    color: rgb(115, 115, 233);
+}
+
+ul{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+ul li {
+    list-style-type: none;
+
+}
+
+ul li a{
+    text-decoration: none;
+    color: gray;
+    font-weight: bold;
+}
+
+/*----------SIDE BAR STYLES-----------*/
+.sidebar {
+  -webkit-transform: translate3d(-100%, 0px, 0px);
+  transform: translate3d(-100%, 0px, 0px);
+  visibility: visible;
+  transition: all 0.5s ease 0s;
+  -webkit-transition: all 1s ease 0s;
+  height: 100vh;
+}
+.open {
+  -webkit-transform: translate3d(0px, 0px, 0px);
+  transform: translate3d(0px, 0px, 0px);
+  visibility: visible;
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: white;
+  padding: 2rem;
+  right: 3rem;
+}
+
+/*----------TABLET AND ABOVE STYLES-----------*/
+@media(min-width:678px){
+    .open{
+        width: 500px;
+        
+        
+    }
+}
+
+
