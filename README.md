@@ -3,15 +3,25 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+
+- [The challenge](#the-challenge)
+  
+- [Screenshot](#screenshot)
+  
+- [Links](#links)
+  
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+
+- [Built with](#built-with)
+  
+- [What I learned](#what-i-learned)
+  
+- [Continued development](#continued-development)
+  
+- [Useful resources](#useful-resources)
+  
 - [Author](#author)
+
 - [Acknowledgments](#acknowledgments)
 
 
@@ -23,6 +33,7 @@
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
+- open and close he side navigation on a click event , triggering animations at the same time.
 
 ### Screenshot
 
@@ -34,7 +45,7 @@ A screen shot of the project in its completed form.
 
 
 ### Links
-- Live Site URL: [Add live site URL here](https://00awaudby.github.io/sidebar/)
+- Live Site URL:(https://00awaudby.github.io/sidebar/)
 
 ## My process
 
@@ -70,6 +81,8 @@ I will do more projects implementing this sort of nav menu.
 ## Author
 
 ASHLEY WAUDBY
+- Github - [00awaudby]https://github.com/00awaudby
+- Frontend Mentor - [@00awaudby] https://www.frontendmentor.io/home
 
 
 
