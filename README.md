@@ -45,7 +45,7 @@ A screen shot of the project in its completed form.
 
 
 ### Links
-- Live Site URL:(https://00awaudby.github.io/sidebar/)
+- Live Site URL:(https://ashleywaudbydev.github.io/sidebar/)
 
 ## My process
 
