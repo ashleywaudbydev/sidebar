@@ -18,8 +18,6 @@
   
 - [Continued development](#continued-development)
   
-- [Useful resources](#useful-resources)
-  
 - [Author](#author)
 
 - [Acknowledgments](#acknowledgments)
@@ -62,34 +60,17 @@ A screen shot of the project in its completed form.
 - Mobile-first workflow
 
 
-
-
 ### What I learned
-
 Got more work with absolute positioning . I also learned how to solve something for my self, for a while i couldnt figure oput why my transition wasnt working , i figured it out and got teh project done.
 
-
-
-
-
 ### Continued development
-
 I will do more projects implementing this sort of nav menu.
 
-
-
-
-
 ## Author
-
-ASHLEY WAUDBY
-- Github - [00awaudby]https://github.com/00awaudby
-- Frontend Mentor - [@00awaudby] https://www.frontendmentor.io/home
-
-
+- Portfolio - [ashleywaudbydev](https://ashleywaudbydev.github.io/Portfolio/)
+- Frontend Mentor - [@00awaudby](https://www.frontendmentor.io/profile/00awaudby)
 
 ## Acknowledgments
-
 This is where i would like to achnowledge free code camp for the challenges to do and also my prevouse tutors from the bootcamp.
 
 
